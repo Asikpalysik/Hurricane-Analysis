@@ -1,5 +1,5 @@
 # Hurricane-Analysis
-Hurricane Analysis courses in Codecademy
+Hurricane Analysis. Courses in Codecademy.
 
 ### Hurricane Analysis
 Overview
