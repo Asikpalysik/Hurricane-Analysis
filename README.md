@@ -1,4 +1,4 @@
-# Hurricane-Analysis
+# Hurricane Analysis
 Hurricane Analysis. Courses in Codecademy.
 
 ### Hurricane Analysis
